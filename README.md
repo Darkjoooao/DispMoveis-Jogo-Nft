@@ -1,7 +1,6 @@
 # DispMoveis-Jogo-Nft
-
-Anália Beatriz Ferreira da Cruz 	2021.1906.075-1
 João Pedro Mont' Serrat Nantes	  2017.1904.025-7
+Anália Beatriz Ferreira da Cruz 	2021.1906.075-1
 
 O aplicativo se trata de um jogo NFT de turnos para dispositivos Android. O objetivo principal do jogo é permitir que os usuários colecionem personagens únicos e participem de batalhas estratégicas por turnos. O jogo incorpora elementos de estratégia, coleta de recursos e progressão dos personagens.
 
