@@ -1,4 +1,4 @@
-# DispMoveis-Jogo-Nft
+# DispMoveis-Jogo
 João Pedro Mont' Serrat Nantes	  2017.1904.025-7
 Anália Beatriz Ferreira da Cruz 	2021.1906.075-1
 
